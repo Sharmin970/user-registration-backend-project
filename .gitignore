@@ -1,0 +1,21 @@
+# Dependency folders
+node_modules/
+.yarn/
+
+# Environment variables
+.env
+
+# Log files
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Production build
+/dist
